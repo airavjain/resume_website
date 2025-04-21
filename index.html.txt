@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Airav Jain - Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Airav Jain</h1>
+  <p>Male | 18y | +91 9783017444 | <a href="#">LinkedIn</a></p>
+
+  <h2>Educational Qualifications</h2>
+  <ul>
+    <li><strong>BA (Economics + Statistics)</strong>, 2024–2027/28, Sri Venkateswara College, DU – GPA</li>
+    <li><strong>BBA DBE</strong>, 2024–2027, IIM Bangalore – GPA</li>
+    <li>CBSE Class XII (2023–2024), Rukmani Birla Modern School – 97%</li>
+    <li>CBSE Class X (2021–2022), Rukmani Birla Modern School – 96.8%</li>
+  </ul>
+
+  <h2>Internships</h2>
+  <ul>
+    <li><strong>Genus Foundation</strong> (Nov 2023–Jan 2024): Fundraising, mentoring, volunteer coordination, and education support</li>
+    <li><strong>Masti Ki Pathshala</strong> (June–July 2023): Conducted educational sessions, recognized for community work</li>
+  </ul>
+
+  <h2>Academic Achievements</h2>
+  <ul>
+    <li><strong>CBSE X</strong>: 97%+ in all subjects, appreciation certificates, ranked among top performers</li>
+    <li><strong>CBSE XII</strong>: AIR 1 in Political Science (100%), multiple subjects scored above 96%</li>
+  </ul>
+
+  <h2>Positions of Responsibility</h2>
+  <ul>
+    <li><strong>School Editor</strong>, Rukmani Birla School (2022–2023): Managed newsletters, editorial planning, design & writing</li>
+    <li><strong>Fine Arts Association</strong>: Coordinated college events, managed sponsorship and vendor communication</li>
+    <li><strong>Economics Association</strong>: Editorial content writer, Instagram manager, brainstormed themed article series</li>
+  </ul>
+
+  <h2>Extra-Curriculars</h2>
+  <ul>
+    <li><strong>School Captain</strong> (Tennis + Table Tennis): Represented school at District/State level, mentored junior players</li>
+    <li><strong>Art Auctions</strong>: Contributed as art collector at national/international events</li>
+    <li><strong>Literary Engagement</strong>: Attended lit fests (Jaipur Lit Fest, Delhi Art Fair, Mumbai Art Fair)</li>
+  </ul>
+</body>
+</html>
